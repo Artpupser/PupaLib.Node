@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PupaLib.Node.Tests/PupaLib.Node.Tests.csproj" />
+  <Project Path="PupaLib.Node/PupaLib.Node.csproj" />
+</Solution>
