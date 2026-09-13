@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PupaLib.Node\PupaLib.Node.csproj" />
+  </ItemGroup>
+
 </Project>
