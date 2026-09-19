@@ -5,7 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
 
-        <PackageId>PupaLib.Data</PackageId>
+        <PackageId>PupaLib.Node</PackageId>
         <Version>0.0.3</Version>
         <Authors>Artpupser</Authors>
         <Owners>Artpupser</Owners>
