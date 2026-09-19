@@ -4,10 +4,23 @@
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+
+        <PackageId>PupaLib.Data</PackageId>
+        <Version>0.0.3</Version>
+        <Authors>Artpupser</Authors>
+        <Owners>Artpupser</Owners>
+        <Company>Artpupser</Company>
+        <Copyright>Copyright MIT LICENSE 2026</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Description>A flexible system of nodes for creating chains of operations for data processing.</Description>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageTags>Node, Nodes, VisualProgramming, Chain, Blocks, DataProcessing, Bundle</PackageTags>
+        <RepositoryUrl>https://github.com/Artpupser/PupaLib.Node.git</RepositoryUrl>
+        <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
     </PropertyGroup>
 
     <ItemGroup>
-        <Folder Include="src\"/>
+        <None Include="../../README.md" Pack="true" PackagePath="/"/>
     </ItemGroup>
 
 </Project>
